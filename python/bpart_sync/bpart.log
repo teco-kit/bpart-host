@@ -1,0 +1,19 @@
+2014-03-20 16:38:57,460:INFO:Gateway Thread Started
+2014-03-20 16:38:57,468:INFO:BTDeviceConnector thread started
+2014-03-20 16:39:04,270:INFO:Connected to Device 00:07:80:78:FA:5A
+2014-03-20 16:39:04,829:DEBUG:Created JSON for 00:07:80:78:FA:5A: {"data": {"AccelZ": {"unit": "Number", "value": "1.104"}, "Temperature": {"unit": "degC", "value": "25.46"}, "AccelX": {"unit": "Number", "value": "0.004"}, "AccelY": {"unit": "Number", "value": "-0.02"}, "Light": {"unit": "Number", "value": "604"}, "Humidity": {"unit": "Percent", "value": "23"}}}
+2014-03-20 16:39:04,832:DEBUG:Created URL: http://cumulus.teco.edu:52001/data/00078078FA5A
+2014-03-20 16:39:07,005:INFO:Connected to Device 00:07:80:78:F5:C3
+2014-03-20 16:39:09,891:DEBUG:CUMULUS Response: {"success":true}
+2014-03-20 16:39:20,439:DEBUG:Created JSON for 00:07:80:78:FA:5A: {"data": {"AccelZ": {"unit": "Number", "value": "1.104"}, "Temperature": {"unit": "degC", "value": "25.46"}, "AccelX": {"unit": "Number", "value": "0.012"}, "AccelY": {"unit": "Number", "value": "-0.024"}, "Light": {"unit": "Number", "value": "604"}, "Humidity": {"unit": "Percent", "value": "23"}}}
+2014-03-20 16:39:20,442:DEBUG:Created URL: http://cumulus.teco.edu:52001/data/00078078FA5A
+2014-03-20 16:39:20,470:DEBUG:CUMULUS Response: {"success":true}
+2014-03-20 16:39:31,017:DEBUG:Created JSON for 00:07:80:78:F5:C3: {"data": {"AccelZ": {"unit": "Number", "value": "1.036"}, "Temperature": {"unit": "degC", "value": "25.52"}, "AccelX": {"unit": "Number", "value": "0.008"}, "AccelY": {"unit": "Number", "value": "-0.004"}, "Light": {"unit": "Number", "value": "604"}, "Humidity": {"unit": "Percent", "value": "24"}}}
+2014-03-20 16:39:31,020:DEBUG:Created URL: http://cumulus.teco.edu:52001/data/00078078F5C3
+2014-03-20 16:39:31,059:DEBUG:CUMULUS Response: {"success":true}
+2014-03-20 16:39:41,579:DEBUG:Created JSON for 00:07:80:78:FA:5A: {"data": {"AccelZ": {"unit": "Number", "value": "1.108"}, "Temperature": {"unit": "degC", "value": "25.49"}, "AccelX": {"unit": "Number", "value": "0.012"}, "AccelY": {"unit": "Number", "value": "-0.02"}, "Light": {"unit": "Number", "value": "610"}, "Humidity": {"unit": "Percent", "value": "23"}}}
+2014-03-20 16:39:41,582:DEBUG:Created URL: http://cumulus.teco.edu:52001/data/00078078FA5A
+2014-03-20 16:39:41,616:DEBUG:CUMULUS Response: {"success":true}
+2014-03-20 16:39:52,150:DEBUG:Created JSON for 00:07:80:78:F5:C3: {"data": {"AccelZ": {"unit": "Number", "value": "1.044"}, "Temperature": {"unit": "degC", "value": "25.54"}, "AccelX": {"unit": "Number", "value": "0.02"}, "AccelY": {"unit": "Number", "value": "-0.012"}, "Light": {"unit": "Number", "value": "604"}, "Humidity": {"unit": "Percent", "value": "23"}}}
+2014-03-20 16:39:52,153:DEBUG:Created URL: http://cumulus.teco.edu:52001/data/00078078F5C3
+2014-03-20 16:39:52,171:DEBUG:CUMULUS Response: {"success":true}
